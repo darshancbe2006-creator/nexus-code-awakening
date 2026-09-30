@@ -2,7 +2,7 @@
 
 NEXUS is a coding challenge game designed to help students
 practice programming and technical interview concepts.
-
+ 
 ## Features
 
 - Interactive coding questions
